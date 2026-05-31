@@ -1,17 +1,35 @@
-## Hi! I'm Isabella and welcome to my GitHub!
+<h1>Hi! I'm Isabella and welcome to my GitHub!</h1>h1>
 <p align="center">
   <img src=readMeBanner.jpg/>
 </p>
-## A Little Bit About Me
-
-- 💻 Full Stack Developer with experience in HTML, CSS, CSS Frameworks and Libraries, JavaScript, JavaScript Frameworks and Libraries, and C
-- 🎨 Passionate about building user-focused experiences that balance functionality and design
-- ✨ I love writing **pretty and powerful code**—clean, maintainable, and impactful
-- 🧩 Enjoy solving problems and turning complex ideas into intuitive digital products
-- 📱 Strong foundation in UI/UX design, backed by a Google UX Design Certificate
-- 🤝 Experienced working in Agile, collaborative team environments
-- 🚀 Always learning and expanding my skills as a developer
-- 👩‍💻 Passionate about supporting and increasing representation for women in technology
-- 🌱 Focused on creating technology that is accessible, meaningful, and easy to use
-
-
+<h2>A Little Bit About Me</h2>h2>
+<h3>Skills</h3>
+  <ul>
+    <li>
+      Full Stack Developer with experience in HTML, CSS, JavaScript, C, React, Vue, Liquid, and relevant Frameworks and Libraries
+    </li>
+    <li>
+      Experienced working across frontend and backend development to build responsive, user-focused applications
+    </li>
+    <li>
+      Thrive in Agile environments, collaborating with developers, designers, stakeholders, and cross-functional teams
+    </li>
+    <li>
+      Enjoy solving problems and turning ideas into meaningful digital products
+    </li>
+  </ul>
+<h3>Passions</h3>
+  <ul>
+    <li>
+      Advocating for greater representation and support for women in technology
+    </li>
+    <li>
+      Continuously learning and expanding my development skills
+    </li>
+    <li>
+      Creating accessible, user-centered experiences that make people's lives easier
+    </li>
+    <li>
+     Combining design thinking with engineering to build products people genuinely enjoy using
+    </li>
+  </ul>
