@@ -33,3 +33,28 @@
      Combining design thinking with engineering to build products people genuinely enjoy using
     </li>
   </ul>
+<h3>Where Design Meets Development</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
