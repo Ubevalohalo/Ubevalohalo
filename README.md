@@ -1,8 +1,8 @@
-<h1>Hi! I'm Isabella and welcome to my GitHub!</h1>h1>
+<h1>Hi! I'm Isabella and welcome to my GitHub!</h1>
 <p align="center">
   <img src=readMeBanner.jpg/>
 </p>
-<h2>A Little Bit About Me</h2>h2>
+<h2>A Little Bit About Me</h2>
 <h3>Skills</h3>
   <ul>
     <li>
