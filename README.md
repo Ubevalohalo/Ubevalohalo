@@ -1,18 +1,17 @@
-## Hi there 👋
+## Hi! I'm Isabella and welcome to my GitHub!
 <p align="center">
   <img src=readMeBanner.jpg/>
 </p>
+## A Little Bit About Me
 
-**Ubevalohalo/Ubevalohalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Full Stack Developer with experience in HTML, CSS, CSS Frameworks and Libraries, JavaScript, JavaScript Frameworks and Libraries, and C
+- 🎨 Passionate about building user-focused experiences that balance functionality and design
+- ✨ I love writing **pretty and powerful code**—clean, maintainable, and impactful
+- 🧩 Enjoy solving problems and turning complex ideas into intuitive digital products
+- 📱 Strong foundation in UI/UX design, backed by a Google UX Design Certificate
+- 🤝 Experienced working in Agile, collaborative team environments
+- 🚀 Always learning and expanding my skills as a developer
+- 👩‍💻 Passionate about supporting and increasing representation for women in technology
+- 🌱 Focused on creating technology that is accessible, meaningful, and easy to use
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
