@@ -1,3 +1,4 @@
+<img src="background.png" width="100%">
 <h1>Hi! I'm Isabella and welcome to my GitHub!</h1>
 <p align="center">
   <img src=readMeBanner.jpg/>
